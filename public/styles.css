@@ -1,0 +1,27 @@
+body {
+    background-color: darkorange;
+}
+
+.title {
+    text-align: center;
+}
+
+#formal {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+#data {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+#buetons {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    gap: 10px;
+}
